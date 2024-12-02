@@ -29,5 +29,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Script"
+rootProject.name = "AppAS34123768"
 include(":app")
